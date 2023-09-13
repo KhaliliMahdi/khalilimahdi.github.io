@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at [Yahoo! Research](https://research.yahoo.com/). My research interest is in theoretical and applied machine learning with fairness, privacy, and strategic behavior consideration. 
+I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The Ohio State University and a part-time research scientist at [Yahoo! Research](https://research.yahoo.com/). My research interest is in theoretical and applied machine learning with fairness and privacy guarantees, robust machine learning, distributed learning, and efficient machine learning for tiny devices. 
+
+Current Graduate Students
+======
+Zhongteng Cai (Co-advise with Prof. Xueru Zhang)
+Amin Meghrazi
+Zhiqun Zou (Co-advise with Prof. Xueru Zhang)
 
 
 Recent News
