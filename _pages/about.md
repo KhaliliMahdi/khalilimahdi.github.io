@@ -13,7 +13,9 @@ I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The
 Current Graduate Students
 ======
 Zhongteng Cai (Co-advise with Prof. Xueru Zhang)
+
 Amin Meghrazi
+
 Zhiqun Zou (Co-advise with Prof. Xueru Zhang)
 
 
