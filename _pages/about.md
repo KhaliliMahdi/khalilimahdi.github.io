@@ -12,7 +12,7 @@ I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The
 
 Current Graduate Students
 ======
-Zhiqun Zou
+Zhiqun Zuo
 
 Zhongteng Cai
 
