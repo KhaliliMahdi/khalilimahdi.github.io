@@ -12,13 +12,13 @@ I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The
 
 Current Graduate Students
 ======
-Zhiqun Zuo
+(Zhiqun Zuo)[https://www.linkedin.com/in/zhiqun-zuo-616507277/]
 
 Zhongteng Cai
 
-Amin Meghrazi
+(Amin Meghrazi)[https://www.linkedin.com/in/amin-meghrazi-708671173/]
 
-Ding Zhu
+Ding Zhu (Starting January 2024)
 
 
 Recent News
