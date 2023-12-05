@@ -12,15 +12,19 @@ I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The
 
 Current Graduate Students
 ======
-Zhongteng Cai (Co-advise with Prof. Xueru Zhang)
+Zhiqun Zou
+
+Zhongteng Cai
 
 Amin Meghrazi
 
-Zhiqun Zou (Co-advise with Prof. Xueru Zhang)
+Ding Zhu
 
 
 Recent News
 ======
+* New paper titled "[Counterfactually Fair Representation](https://arxiv.org/pdf/2311.05420.pdf)" is accepted in the Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS). 
+
 * New paper titled "[Loss Balancing for Fair Supervised Learning](https://openreview.net/pdf?id=gVGZyRDpXX)" is accepted in the International Conference of Machine Learning (ICML). 
 
 * New paper titled "[Symbolic Metamodels for Interpreting Black-boxes Using Primitive Functions]()" is accepted (for oral presentation) in the AAAI Conference on Artificial Intelligence.
