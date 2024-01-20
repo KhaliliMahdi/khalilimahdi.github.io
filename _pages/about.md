@@ -16,8 +16,6 @@ Current Graduate Students
 
 Zhongteng Cai
 
-[Amin Meghrazi](https://www.linkedin.com/in/amin-meghrazi-708671173/)
-
 Ding Zhu
 
 
