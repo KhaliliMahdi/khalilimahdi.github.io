@@ -26,7 +26,7 @@ Recent News
 
 **2024**
 
-* New paper titled "[Imposing Fairness Constraints in Synthetic Data Generation]" is accepted in the 27th International Conference on Artificial Intelligence and Statistics (AISTATS). 
+* New paper titled "[Imposing Fairness Constraints in Synthetic Data Generation](https://github.com/KhaliliMahdi/khalilimahdi.github.io/edit/master/_pages/about.md)" is accepted in the 27th International Conference on Artificial Intelligence and Statistics (AISTATS). 
 
 * Recieved Grant from college of engineering to build safe, robust, and interpretable AI models for large-scale systems. 
 
@@ -42,8 +42,8 @@ Recent News
 
 * New paper titled "Towards Fair Representation Learning in Knowledge Graph with Stable Adversarial Debiasing" is accepted in the ICDM workshop on Knowledge Graph. 
 
-* Recived an [NSF Grant] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301601&HistoricalAwards=false) to buid a safe and private AI system for health monitoring with my collaborators at UIUC and UCSD.   
+* Recived an [NSF Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301601&HistoricalAwards=false) to buid a safe and private AI system for health monitoring with my collaborators at UIUC and UCSD.   
 
-* Recived an [NSF Grant] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301599&HistoricalAwards=false) to improve fairness and robustness of AI in dynamic environmnets.
+* Recived an [NSF Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301599&HistoricalAwards=false) to improve fairness and robustness of AI in dynamic environmnets.
 
 
