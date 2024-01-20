@@ -28,7 +28,7 @@ Recent News
 
 * New paper titled "[Imposing Fairness Constraints in Synthetic Data Generation](https://khalilimahdi.github.io/)" is accepted in the 27th International Conference on Artificial Intelligence and Statistics (AISTATS). 
 
-* Recieved Grant from college of engineering to build safe, robust, and interpretable AI models for large-scale systems. 
+* Recieved a Grant from the college of engineering to build safe, robust, and interpretable AI models for large-scale systems. 
 
 **2023**
 
