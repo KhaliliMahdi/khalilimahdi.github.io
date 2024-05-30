@@ -12,11 +12,13 @@ I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The
 
 Current Graduate Students
 ======
-[Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/)
+[Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/) (Research Project: Causal Fairness, Counterfactual Reasoning for Fair Machine Learning)
 
-Zhongteng Cai
+Zhongteng Cai (Research Project: Privacy-Aware Model Compression and Quantization)
 
-Ding Zhu
+Ding Zhu (Research Project: Trustworthy Model Compression, Time Series Data Analysis Using Foundation Models)
+
+Vishnu Chhabra (Research Project: Mechanistic Interpretability for Foundation Models)
 
 
 Recent News
@@ -24,9 +26,17 @@ Recent News
 
 **2024**
 
+* New PhD student, Vishnu Chhabra joined my lab. He will be working on Mechanistic Interpretability for foundation models. 
+
+* Zhongteng Cai received a travel grant to attend the UAI conference and present his work. 
+
+* New paper titled "[Privacy-Aware Randomized Quantization via Linear Programming](https://khalilimahdi.github.io/)" is accepted in the 40th Conference on Uncertainty in Artificial Intelligence (UAI). 
+
+* Received a grant from the Translational Data Analytics Institute to build interpretable and efficient AI models for medical diagnosis. 
+
 * New paper titled "[Imposing Fairness Constraints in Synthetic Data Generation](https://khalilimahdi.github.io/)" is accepted in the 27th International Conference on Artificial Intelligence and Statistics (AISTATS). 
 
-* Recieved a grant from the college of engineering to build safe, robust, and interpretable AI models for large-scale systems. 
+* Received a grant from the college of engineering to build safe, robust, and interpretable AI models for large-scale systems. 
 
 **2023**
 
