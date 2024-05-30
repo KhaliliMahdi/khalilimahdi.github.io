@@ -12,13 +12,13 @@ I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The
 
 Current Graduate Students
 ======
-[Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/) (Research Project: Causal Fairness, Counterfactual Reasoning for Fair Machine Learning)
+[Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/) (**Research Project:** Causal Fairness, Counterfactual Reasoning for Fair Machine Learning)
 
-Zhongteng Cai (Research Project: Privacy-Aware Model Compression and Quantization)
+Zhongteng Cai (**Research Project:** Privacy-Aware Model Compression and Quantization)
 
-Ding Zhu (Research Project: Trustworthy Model Compression, Time Series Data Analysis Using Foundation Models)
+Ding Zhu (**Research Project:** Trustworthy Model Compression, Time Series Data Analysis Using Foundation Models)
 
-Vishnu Chhabra (Research Project: Mechanistic Interpretability for Foundation Models)
+Vishnu Chhabra (**Research Project:** Mechanistic Interpretability for Foundation Models)
 
 
 Recent News
