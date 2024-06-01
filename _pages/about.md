@@ -26,13 +26,17 @@ Recent News
 
 **2024**
 
-* New PhD student, Vishnu Chhabra joined my lab. He will be working on Mechanistic Interpretability for foundation models. 
+* Received a GPU server for the lab.
+  
+* Invited to give a talk on **Counterfactual Reseaning for Fair Machine Learning** at [the Midwest Machine Learning Symposium] (https://midwest-ml.org/2024/).
 
 * Zhongteng Cai received a travel grant to attend the UAI conference and present his work. 
 
 * New paper titled "[Privacy-Aware Randomized Quantization via Linear Programming](https://khalilimahdi.github.io/)" is accepted in the 40th Conference on Uncertainty in Artificial Intelligence (UAI). 
 
-* Received a grant from the Translational Data Analytics Institute to build interpretable and efficient AI models for medical diagnosis. 
+* Received a grant from the Translational Data Analytics Institute to build interpretable and efficient AI models for medical diagnosis.
+
+* New PhD student, Vishnu Chhabra joined my lab. He will be working on Mechanistic Interpretability for foundation models. 
 
 * New paper titled "[Imposing Fairness Constraints in Synthetic Data Generation](https://khalilimahdi.github.io/)" is accepted in the 27th International Conference on Artificial Intelligence and Statistics (AISTATS). 
 
