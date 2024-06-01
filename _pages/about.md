@@ -28,7 +28,7 @@ Recent News
 
 * Received a GPU server for the lab.
   
-* Invited to give a talk on **Counterfactual Reseaning for Fair Machine Learning** at [the Midwest Machine Learning Symposium](https://midwest-ml.org/2024/).
+* Invited to give a talk on Counterfactual Reseaning for Fair Machine Learning at [the Midwest Machine Learning Symposium](https://midwest-ml.org/2024/).
 
 * Zhongteng Cai received a travel grant to attend the UAI conference and present his work. 
 
