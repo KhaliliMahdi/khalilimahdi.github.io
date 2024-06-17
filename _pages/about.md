@@ -26,6 +26,8 @@ Recent News
 
 **2024**
 
+* New paper titled "[ECG Signal Denoising Using Multi-scale Patch Embedding and Transformers](https://khalilimahdi.github.io/)" is accepted in the ICML 2024 Next Generation of Sequence Modeling Architectures Workshop.
+
 * Received a GPU server for the lab.
   
 * Invited to give a talk on Counterfactual Reseaning for Fair Machine Learning at [the Midwest Machine Learning Symposium](https://midwest-ml.org/2024/).
