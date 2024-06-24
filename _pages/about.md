@@ -26,6 +26,8 @@ Recent News
 
 **2024**
 
+* New paper titled "[Neuroplasticity and Corruption in Model Mechanisms: A case study of Indirect Object Identification](https://khalilimahdi.github.io/)" is accepted in the ICML 2024 Mechanistic Interpretability Workshop.
+
 * New paper titled "[ECG Signal Denoising Using Multi-scale Patch Embedding and Transformers](https://khalilimahdi.github.io/)" is accepted in the ICML 2024 Next Generation of Sequence Modeling Architectures Workshop.
 
 * Received a GPU server for the lab.
