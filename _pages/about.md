@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The Ohio State University and a part-time research scientist at [Yahoo! Research](https://research.yahoo.com/). My research interest is in theoretical and applied machine learning with fairness and privacy guarantees, robust machine learning, distributed learning, and efficient machine learning for tiny devices. 
+I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The Ohio State University and a part-time research scientist at [Yahoo! Research](https://research.yahoo.com/). I'm interested in theoretical and applied machine learning, focusing on robustness, interpretability, and model compression for large-scale models like LLMs.
 
 Current Graduate Students
 ======
-[Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/) (**Research Project:** Causal Fairness, Counterfactual Reasoning for Fair Machine Learning)
+[Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/) (**Research Project:** Counterfactual Reasoning)
 
 Zhongteng Cai (**Research Project:** Privacy-Aware Model Compression and Quantization)
 
