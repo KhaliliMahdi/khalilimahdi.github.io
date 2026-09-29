@@ -12,7 +12,7 @@ author_profile: true
 
 Under Review
 ====
-* M. Khalili, D. Zhu, "WAQS: Weight Absorption for Quadratic Probing and Affine Steering," under review, 2026. [project page](/publication/waqs) [code](https://github.com/KhaliliMahdi/WAQS)
+* D. Zhu, M. Khalili, "WAQS: Weight Absorption for Quadratic Probing and Affine Steering," under review, 2026. [project page](/publication/waqs) [code](https://github.com/KhaliliMahdi/WAQS)
 
 Selected Conference Papers
 ====

@@ -17,7 +17,7 @@ I have had the privilege of working with and advising talented students, includi
 Selected Publications
 ======
 
-* M. Khalili, D. Zhu, "[WAQS: Weight Absorption for Quadratic Probing and Affine Steering](/publication/waqs)," under review, 2026. [[code](https://github.com/KhaliliMahdi/WAQS)]
+* D. Zhu, M. Khalili, "[WAQS: Weight Absorption for Quadratic Probing and Affine Steering](/publication/waqs)," under review, 2026. [[code](https://github.com/KhaliliMahdi/WAQS)]
 
 * D. Zhu, X. Wei, T. Xie, Z. Zhu, X. Zhang, M. Khalili, "[PORT: Preference Optimization via Robust Token-Level Reweighting](/publication/port)," *The Conference on Neural Information Processing Systems (NeurIPS)*, 2026. [[code](https://github.com/KhaliliMahdi/PORT)]
 
