@@ -12,7 +12,7 @@ author_profile: true
 
 Selected Conference Papers
 ====
-* D. Zhu, X. Wei, T. Xie, Z. Zhu, X. Zhang, M. Khalili, "PORT: Preference Optimization via Robust Token-Level Reweighting," The Conference on Neural Information Processing Systems (NeurIPS), 2026. [project page](/publication/port)
+* D. Zhu, X. Wei, T. Xie, Z. Zhu, X. Zhang, M. Khalili, "PORT: Preference Optimization via Robust Token-Level Reweighting," The Conference on Neural Information Processing Systems (NeurIPS), 2026. [project page](/publication/port) [code](https://github.com/KhaliliMahdi/PORT)
 
 * X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu, "Fairness Interventions as (Dis)incentives for Strategic Manipulation," The International Conference on Machince Learning (ICML), 2022. [link](https://proceedings.mlr.press/v162/zhang22l/zhang22l.pdf)
 	
