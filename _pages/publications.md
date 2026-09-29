@@ -14,6 +14,8 @@ Selected Conference Papers
 ====
 * D. Zhu, X. Wei, T. Xie, Z. Zhu, X. Zhang, M. Khalili, "PORT: Preference Optimization via Robust Token-Level Reweighting," The Conference on Neural Information Processing Systems (NeurIPS), 2026. [project page](/publication/port) [code](https://github.com/KhaliliMahdi/PORT)
 
+* S. Gupte, X. Zhang, M. Khalili, "When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs," The Conference on Language Modeling (COLM), 2026. [project page](/publication/sae-pruning) [paper](https://arxiv.org/abs/2608.25941) [code](https://github.com/KhaliliMahdi/sae-robustness-under-pruning)
+
 * X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu, "Fairness Interventions as (Dis)incentives for Strategic Manipulation," The International Conference on Machince Learning (ICML), 2022. [link](https://proceedings.mlr.press/v162/zhang22l/zhang22l.pdf)
 	
 * K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu, "Making Cheating Less Appealing: Incentivizing Honesty in Strategic Classification Problems," The Conference on Economics and Computation (EC), 2022. [link](https://dl.acm.org/doi/10.1145/3490486.3538300)

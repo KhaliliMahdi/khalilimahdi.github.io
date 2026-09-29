@@ -30,6 +30,8 @@ Recent News
 
 * New paper titled "[PORT: Preference Optimization via Robust Token-Level Reweighting](/publication/port)" is accepted in the 40th Conference on Neural Information Processing Systems (NeurIPS).
 
+* New paper titled "[When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs](/publication/sae-pruning)" is accepted in the Conference on Language Modeling (COLM).
+
 **2024**
 
 * New paper titled "[Neuroplasticity and Corruption in Model Mechanisms: A case study of Indirect Object Identification](https://khalilimahdi.github.io/)" is accepted in the ICML 2024 Mechanistic Interpretability Workshop.
