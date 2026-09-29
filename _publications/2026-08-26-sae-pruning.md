@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/abs/2608.25941'
 citation: 'S. Gupte, X. Zhang, M. Khalili, &quot;When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs,&quot; <i>The Conference on Language Modeling (COLM)</i>, 2026.'
 ---
 
-**Suchit Gupte, Xueru Zhang, Mohammad Mahdi Khalili**
+**Suchit Gupte, Xueru Zhang, Mahdi Khalili**
 
 [Paper (arXiv)](https://arxiv.org/abs/2608.25941) &nbsp;·&nbsp; [Code](https://github.com/KhaliliMahdi/sae-robustness-under-pruning) &nbsp;·&nbsp; [BibTeX](#bibtex)
 

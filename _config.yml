@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Mahdi Khalili"
+title                    : "Mahdi Khalili"
 title_separator          : "-"
-name                     : &name "Mohammad Mahdi Khalili"
+name                     : &name "Mahdi Khalili"
 description              : &description "personal website"
 url                      : https://khalilimahdi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Mahdi Khalili"
+  name             : "Mahdi Khalili"
   avatar           : "profile.jpeg"
   #bio              : "Research Scientist and Assitant Professor"
   #location         : "Location"
