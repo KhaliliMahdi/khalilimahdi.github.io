@@ -12,7 +12,7 @@ I am a Senior Machine Learning Engineer at [Uber](https://www.uber.com/) and an 
 
 Previously, I was a tenure-track Assistant Professor at Ohio State (2023–2025), a Research Scientist at [Yahoo! Research](https://research.yahoo.com/) (2022–2024), and an Assistant Professor of Computer Science at the University of Delaware (2020–2022). I was a postdoctoral researcher in EECS at UC Berkeley, and received my Ph.D. in EECS and M.Sc. in Mathematics from the University of Michigan, and my B.Sc. and M.Sc. in Electrical Engineering from Sharif University of Technology.
 
-I have had the privilege of working with and advising talented students, including [Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/), Zhongteng Cai, Ding Zhu, Vishnu Chhabra, Suchit Gupte, and Xudong Zhu.
+I have had the privilege of working with and advising talented students, including [Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/), Zhongteng Cai, Ding Zhu, Vishnu Chhabra, and Suchit Gupte.
 
 Selected Publications
 ======
