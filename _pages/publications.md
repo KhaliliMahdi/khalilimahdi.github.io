@@ -34,4 +34,8 @@ Selected Conference Papers
 
 * I. Vakilinia, M. Khalili, M. Ling, "A Mechanism Design Approach to Solve Ransomware Dilemmas," The Conference on Decision and Game Theory for Security (GameSec), 2021. [link](https://link.springer.com/chapter/10.1007/978-3-030-90370-1_10)
 
+Selected Journal Papers
+====
+* X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "From Emergence to Control: Probing and Modulating Self-Reflection in Language Models," Transactions on Machine Learning Research (TMLR), 2026. [paper](https://arxiv.org/abs/2506.12217)
+
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=hSgnKecAAAAJ).

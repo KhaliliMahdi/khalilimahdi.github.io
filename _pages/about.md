@@ -12,62 +12,17 @@ I am a Senior Machine Learning Engineer at [Uber](https://www.uber.com/) and an 
 
 Previously, I was a tenure-track Assistant Professor at Ohio State (2023–2025), a Research Scientist at [Yahoo! Research](https://research.yahoo.com/) (2022–2024), and an Assistant Professor of Computer Science at the University of Delaware (2020–2022). I was a postdoctoral researcher in EECS at UC Berkeley, and received my Ph.D. in EECS and M.Sc. in Mathematics from the University of Michigan, and my B.Sc. and M.Sc. in Electrical Engineering from Sharif University of Technology.
 
-Current Graduate Students
-======
-[Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/) (**Research Project:** Counterfactual Reasoning)
+I have had the privilege of working with and advising talented students, including [Zhiqun Zuo](https://www.linkedin.com/in/zhiqun-zuo-616507277/), Zhongteng Cai, Ding Zhu, Vishnu Chhabra, Suchit Gupte, and Xudong Zhu.
 
-Zhongteng Cai (**Research Project:** Privacy-Aware Model Compression and Quantization)
-
-Ding Zhu (**Research Project:** Trustworthy Model Compression, Time Series Data Analysis Using Foundation Models)
-
-Vishnu Chhabra (**Research Project:** Mechanistic Interpretability for Foundation Models)
-
-
-Recent News
+Selected Publications
 ======
 
-**2026**
+* M. Khalili, D. Zhu, "[WAQS: Weight Absorption for Quadratic Probing and Affine Steering](/publication/waqs)," under review, 2026. [[code](https://github.com/KhaliliMahdi/WAQS)]
 
-* New paper titled "[PORT: Preference Optimization via Robust Token-Level Reweighting](/publication/port)" is accepted in the 40th Conference on Neural Information Processing Systems (NeurIPS).
+* D. Zhu, X. Wei, T. Xie, Z. Zhu, X. Zhang, M. Khalili, "[PORT: Preference Optimization via Robust Token-Level Reweighting](/publication/port)," *The Conference on Neural Information Processing Systems (NeurIPS)*, 2026. [[code](https://github.com/KhaliliMahdi/PORT)]
 
-* New paper titled "[When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs](/publication/sae-pruning)" is accepted in the Conference on Language Modeling (COLM).
+* S. Gupte, X. Zhang, M. Khalili, "[When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs](/publication/sae-pruning)," *The Conference on Language Modeling (COLM)*, 2026. [[paper](https://arxiv.org/abs/2608.25941)] [[code](https://github.com/KhaliliMahdi/sae-robustness-under-pruning)]
 
-**2024**
+* X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "From Emergence to Control: Probing and Modulating Self-Reflection in Language Models," *Transactions on Machine Learning Research (TMLR)*, 2026. [[paper](https://arxiv.org/abs/2506.12217)]
 
-* New paper titled "[Neuroplasticity and Corruption in Model Mechanisms: A case study of Indirect Object Identification](https://khalilimahdi.github.io/)" is accepted in the ICML 2024 Mechanistic Interpretability Workshop.
-
-* New paper titled "[ECG Signal Denoising Using Multi-scale Patch Embedding and Transformers](https://khalilimahdi.github.io/)" is accepted in the ICML 2024 Next Generation of Sequence Modeling Architectures Workshop.
-
-* Received a GPU server for the lab.
-  
-* Invited to give a talk on Counterfactual Reseaning for Fair Machine Learning at [the Midwest Machine Learning Symposium](https://midwest-ml.org/2024/).
-
-* Zhongteng Cai received a travel grant to attend the UAI conference and present his work. 
-
-* New paper titled "[Privacy-Aware Randomized Quantization via Linear Programming](https://khalilimahdi.github.io/)" is accepted in the 40th Conference on Uncertainty in Artificial Intelligence (UAI). 
-
-* Received a grant from the Translational Data Analytics Institute to build interpretable and efficient AI models for medical diagnosis.
-
-* New PhD student, Vishnu Chhabra joined my lab. He will be working on Mechanistic Interpretability for foundation models. 
-
-* New paper titled "[Imposing Fairness Constraints in Synthetic Data Generation](https://khalilimahdi.github.io/)" is accepted in the 27th International Conference on Artificial Intelligence and Statistics (AISTATS). 
-
-* Received a grant from the college of engineering to build safe, robust, and interpretable AI models for large-scale systems. 
-
-**2023**
-
-* New paper titled "[Counterfactually Fair Representation](https://arxiv.org/pdf/2311.05420.pdf)" is accepted in the Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS). 
-
-* New paper titled "[Loss Balancing for Fair Supervised Learning](https://openreview.net/pdf?id=gVGZyRDpXX)" is accepted in the International Conference of Machine Learning (ICML). 
-
-* New paper titled "[Symbolic Metamodels for Interpreting Black-boxes Using Primitive Functions]()" is accepted (for oral presentation) in the AAAI Conference on Artificial Intelligence.
-
-* New paper titled "[Counterfactual Fairness in Synthetic Data Generation](https://openreview.net/pdf?id=tge5NiX4CZo)" is accepted in the Neurips workshop on Synthetic Data for Machine Learning. 
-
-* New paper titled "Towards Fair Representation Learning in Knowledge Graph with Stable Adversarial Debiasing" is accepted in the ICDM workshop on Knowledge Graph. 
-
-* Recived an [NSF Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301601&HistoricalAwards=false) to buid a safe and private AI system for health monitoring with my collaborators at UIUC and UCSD.   
-
-* Recived an [NSF Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301599&HistoricalAwards=false) to improve fairness and robustness of AI in dynamic environmnets.
-
-
+See all publications on the [Publications page](/publications/).
