@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [CSE department](https://cse.osu.edu/) at The Ohio State University and a part-time research scientist at [Yahoo! Research](https://research.yahoo.com/). I'm interested in theoretical and applied machine learning, focusing on robustness, interpretability, and model compression for large-scale models like LLMs.
+I am a Senior Machine Learning Engineer at [Uber](https://www.uber.com/) and an Adjunct Assistant Professor in the [CSE department](https://cse.osu.edu/) at The Ohio State University. My research focuses on LLM alignment and post-training, mechanistic interpretability, and efficient machine learning, including model compression and knowledge distillation.
+
+Previously, I was a tenure-track Assistant Professor at Ohio State (2023–2025), a Research Scientist at [Yahoo! Research](https://research.yahoo.com/) (2022–2024), and an Assistant Professor of Computer Science at the University of Delaware (2020–2022). I was a postdoctoral researcher in EECS at UC Berkeley, and received my Ph.D. in EECS and M.Sc. in Mathematics from the University of Michigan, and my B.Sc. and M.Sc. in Electrical Engineering from Sharif University of Technology.
 
 Current Graduate Students
 ======
@@ -23,6 +25,10 @@ Vishnu Chhabra (**Research Project:** Mechanistic Interpretability for Foundatio
 
 Recent News
 ======
+
+**2026**
+
+* New paper titled "[PORT: Preference Optimization via Robust Token-Level Reweighting](/publication/port)" is accepted in the 40th Conference on Neural Information Processing Systems (NeurIPS).
 
 **2024**
 
