@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 
+Under Review
+====
+* M. Khalili, D. Zhu, "WAQS: Weight Absorption for Quadratic Probing and Affine Steering," under review, 2026. [project page](/publication/waqs) [code](https://github.com/KhaliliMahdi/WAQS)
+
 Selected Conference Papers
 ====
 * D. Zhu, X. Wei, T. Xie, Z. Zhu, X. Zhang, M. Khalili, "PORT: Preference Optimization via Robust Token-Level Reweighting," The Conference on Neural Information Processing Systems (NeurIPS), 2026. [project page](/publication/port) [code](https://github.com/KhaliliMahdi/PORT)
