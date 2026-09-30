@@ -25,7 +25,7 @@ Selected Publications
 
 * X. Zhu, M. Khalili, Z. Zhu, "[AbsTopK: Rethinking Sparse Autoencoders for Bidirectional Features](/publication/abstopk)," *The International Conference on Learning Representations (ICLR)*, 2026. [[paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/527360cae239e340eb056e32b01f1caf-Abstract-Conference.html)] [[code](https://github.com/KhaliliMahdi/AbsTopK-SAE)]
 
-* X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "[From Emergence to Control: Probing and Modulating Self-Reflection in Language Models](/publication/self-reflection)," *Transactions on Machine Learning Research (TMLR)*, 2026. [[paper](https://arxiv.org/abs/2506.12217)]
+* X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "[From Emergence to Control: Probing and Modulating Self-Reflection in Language Models](/publication/self-reflection)," *Transactions on Machine Learning Research (TMLR)*, 2026. [[paper](https://arxiv.org/abs/2506.12217)] [[code](https://github.com/KhaliliMahdi/ProbingReflection)]
 
 * D. Zhu, Z. Zuo, M. Khalili, "[An Efficient Training Algorithm for Models with Block-wise Sparsity](/publication/blockwise-sparsity)," *Transactions on Machine Learning Research (TMLR)*, 2025. [[paper](https://arxiv.org/abs/2503.21928)] [[code](https://github.com/KhaliliMahdi/kronvit)]
 

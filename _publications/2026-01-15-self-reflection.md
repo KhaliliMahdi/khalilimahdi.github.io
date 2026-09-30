@@ -11,7 +11,7 @@ citation: 'X. Zhu, J. Jiang, M. Khalili, Z. Zhu, &quot;From Emergence to Control
 
 **Xudong Zhu, Jiachen Jiang, Mahdi Khalili, Zhihui Zhu**
 
-[Paper (arXiv)](https://arxiv.org/abs/2506.12217) &nbsp;·&nbsp; **Code** (coming soon) &nbsp;·&nbsp; [BibTeX](#bibtex)
+[Paper (arXiv)](https://arxiv.org/abs/2506.12217) &nbsp;·&nbsp; [Code](https://github.com/KhaliliMahdi/ProbingReflection) &nbsp;·&nbsp; [BibTeX](#bibtex)
 
 ![Self-reflection frequency of pretrained and fine-tuned models on MATH500](/images/publications/self-reflection-overview.png)
 *Left: fraction of MATH500 responses showing self-reflection for the pretrained Qwen2.5-1.5B (A<sub>pt</sub>), for A<sub>pt</sub> with reflection-inducing probing (CoT injected from the fine-tuned model), and for the fine-tuned DeepSeek-R1-Distill-Qwen-1.5B (A<sub>ft</sub>). Right: an example of spontaneous self-reflection in the pretrained model.*

@@ -38,7 +38,7 @@ Selected Conference Papers
 
 Selected Journal Papers
 ====
-* X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "[From Emergence to Control: Probing and Modulating Self-Reflection in Language Models](/publication/self-reflection)," Transactions on Machine Learning Research (TMLR), 2026. [paper](https://arxiv.org/abs/2506.12217)
+* X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "[From Emergence to Control: Probing and Modulating Self-Reflection in Language Models](/publication/self-reflection)," Transactions on Machine Learning Research (TMLR), 2026. [paper](https://arxiv.org/abs/2506.12217) [code](https://github.com/KhaliliMahdi/ProbingReflection)
 
 * D. Zhu, Z. Zuo, M. Khalili, "[An Efficient Training Algorithm for Models with Block-wise Sparsity](/publication/blockwise-sparsity)," Transactions on Machine Learning Research (TMLR), 2025. [paper](https://arxiv.org/abs/2503.21928) [code](https://github.com/KhaliliMahdi/kronvit)
 
