@@ -20,7 +20,7 @@ Selected Conference Papers
 
 * S. Gupte, X. Zhang, M. Khalili, "When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs," The Conference on Language Modeling (COLM), 2026. [project page](/publication/sae-pruning) [paper](https://arxiv.org/abs/2608.25941) [code](https://github.com/KhaliliMahdi/sae-robustness-under-pruning)
 
-* X. Zhu, M. Khalili, Z. Zhu, "[AbsTopK: Rethinking Sparse Autoencoders for Bidirectional Features](/publication/abstopk)," The International Conference on Learning Representations (ICLR), 2026. [paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/527360cae239e340eb056e32b01f1caf-Abstract-Conference.html)
+* X. Zhu, M. Khalili, Z. Zhu, "[AbsTopK: Rethinking Sparse Autoencoders for Bidirectional Features](/publication/abstopk)," The International Conference on Learning Representations (ICLR), 2026. [paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/527360cae239e340eb056e32b01f1caf-Abstract-Conference.html) [code](https://github.com/KhaliliMahdi/AbsTopK-SAE)
 
 * X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu, "Fairness Interventions as (Dis)incentives for Strategic Manipulation," The International Conference on Machince Learning (ICML), 2022. [link](https://proceedings.mlr.press/v162/zhang22l/zhang22l.pdf)
 	

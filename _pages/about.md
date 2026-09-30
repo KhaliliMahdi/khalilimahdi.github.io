@@ -23,7 +23,7 @@ Selected Publications
 
 * S. Gupte, X. Zhang, M. Khalili, "[When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs](/publication/sae-pruning)," *The Conference on Language Modeling (COLM)*, 2026. [[paper](https://arxiv.org/abs/2608.25941)] [[code](https://github.com/KhaliliMahdi/sae-robustness-under-pruning)]
 
-* X. Zhu, M. Khalili, Z. Zhu, "[AbsTopK: Rethinking Sparse Autoencoders for Bidirectional Features](/publication/abstopk)," *The International Conference on Learning Representations (ICLR)*, 2026. [[paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/527360cae239e340eb056e32b01f1caf-Abstract-Conference.html)]
+* X. Zhu, M. Khalili, Z. Zhu, "[AbsTopK: Rethinking Sparse Autoencoders for Bidirectional Features](/publication/abstopk)," *The International Conference on Learning Representations (ICLR)*, 2026. [[paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/527360cae239e340eb056e32b01f1caf-Abstract-Conference.html)] [[code](https://github.com/KhaliliMahdi/AbsTopK-SAE)]
 
 * X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "[From Emergence to Control: Probing and Modulating Self-Reflection in Language Models](/publication/self-reflection)," *Transactions on Machine Learning Research (TMLR)*, 2026. [[paper](https://arxiv.org/abs/2506.12217)]
 
