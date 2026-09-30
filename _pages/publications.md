@@ -40,6 +40,6 @@ Selected Journal Papers
 ====
 * X. Zhu, J. Jiang, M. Khalili, Z. Zhu, "[From Emergence to Control: Probing and Modulating Self-Reflection in Language Models](/publication/self-reflection)," Transactions on Machine Learning Research (TMLR), 2026. [paper](https://arxiv.org/abs/2506.12217)
 
-* D. Zhu, Z. Zuo, M. Khalili, "[An Efficient Training Algorithm for Models with Block-wise Sparsity](/publication/blockwise-sparsity)," Transactions on Machine Learning Research (TMLR), 2025. [paper](https://arxiv.org/abs/2503.21928)
+* D. Zhu, Z. Zuo, M. Khalili, "[An Efficient Training Algorithm for Models with Block-wise Sparsity](/publication/blockwise-sparsity)," Transactions on Machine Learning Research (TMLR), 2025. [paper](https://arxiv.org/abs/2503.21928) [code](https://github.com/KhaliliMahdi/kronvit)
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=hSgnKecAAAAJ).
