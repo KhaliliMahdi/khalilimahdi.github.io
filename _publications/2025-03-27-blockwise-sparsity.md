@@ -11,7 +11,7 @@ citation: 'D. Zhu, Z. Zuo, M. Khalili, &quot;An Efficient Training Algorithm for
 
 **Ding Zhu, Zhiqun Zuo, Mahdi Khalili**
 
-[Paper (arXiv)](https://arxiv.org/abs/2503.21928) &nbsp;·&nbsp; [Code](https://github.com/KhaliliMahdi/kronvit) &nbsp;·&nbsp; [BibTeX](#bibtex)
+[Paper (arXiv)](https://arxiv.org/abs/2503.21928) &nbsp;·&nbsp; [Code](https://github.com/KhaliliMahdi/kronvit) &nbsp;·&nbsp; [Tutorial: wall time and memory](/posts/2026/10/kronecker-layer-benchmark/) &nbsp;·&nbsp; [BibTeX](#bibtex)
 
 ![Kronecker-product parameterization of a block-wise sparse matrix](/images/publications/blockwise-sparsity-kronecker.png)
 *A weight matrix is written as (S ⊙ A<sub>i</sub>) ⊗ B<sub>i</sub>. When the small matrix S is sparse, the product is block-wise sparse, and the block size equals the size of B<sub>i</sub>. White entries are zero.*
