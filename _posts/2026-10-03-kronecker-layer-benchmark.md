@@ -2,6 +2,9 @@
 title: 'Kronecker-factored layers in PyTorch: wall time and GPU memory'
 date: 2026-10-03
 permalink: /posts/2026/10/kronecker-layer-benchmark/
+categories:
+  - tutorials
+excerpt: 'Three PyTorch implementations of the block-wise sparse Kronecker layer, compared with dense and group LASSO baselines: wall time and peak GPU memory per training step at batch 256 and 20,000.'
 tags:
   - block-wise sparsity
   - Kronecker product
